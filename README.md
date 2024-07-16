@@ -2,8 +2,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-mykhailenko"/>
 
+![Bohdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdan-mykhailenko&show_icons=true&theme=dark)
 
-[![Bohdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bohdan-mykhailenko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bohdan-mykhailenko/bohdan-mykhailenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
