@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm passionate about building engaging and functional web experiences . With 2 years of experience as a Full Stack Developer, I'm always eager to expand my skillset.<br>🌱My current focus is on mastering Rust ️ for its potential in blockchain development  and high-performance web applications. I'm also diving into the world of backend technologies  to gain a more holistic understanding of web development.<br>💬 Feel free to connect and discuss projects or share your own learning journeys!
+🔭 I'm passionate about building engaging and functional web experiences . With 2 years of experience as a Full Stack Developer, I'm always eager to expand my skillset.<br>🌱 My current focus is on mastering Rust ️ for its potential in blockchain development  and high-performance web applications. I'm also diving into the world of backend technologies  to gain a more holistic understanding of web development.<br>💬 Feel free to connect and discuss projects or share your own learning journeys!
 
 
 ## 🌐 Socials:
