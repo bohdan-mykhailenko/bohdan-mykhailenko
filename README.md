@@ -13,7 +13,7 @@
 ## Statistics:
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-mykhailenko&layout=compact&border_radius=0&theme=dark&hide=css,scss,html" alt="" height="200" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan-mykhailenko&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="" height="200" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan-mykhailenko&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="" height="200" />
 </p>
 
 ## Languages
