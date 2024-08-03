@@ -11,7 +11,7 @@
 [![X](https://img.shields.io/badge/X-222222.svg?logo=X&logoColor=white)](https://x.com/alfabravo_228) 
 
 ## Statistics:
-<p>
+<div style={{display: "flex"}}>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohdan-mykhailenko&layout=compact&border_radius=0&theme=dark&hide=css,scss,html" alt="" height="200" />
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bohdan-mykhailenko&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="" height="200" />
 </p>
