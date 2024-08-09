@@ -83,6 +83,3 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-[![Views](https://u8views.com/api/v1/github/profiles/76702178/views/day-week-month-total-count.svg)](https://u8views.com/github/bohdan-mykhailenko)
