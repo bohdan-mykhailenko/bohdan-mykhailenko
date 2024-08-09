@@ -85,5 +85,4 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bohdan-mykhailenko&icon=4&color=7)](https://visitcount.itsvg.in)
-
+[![Views](https://u8views.com/api/v1/github/profiles/76702178/views/day-week-month-total-count.svg)](https://u8views.com/github/bohdan-mykhailenko)
