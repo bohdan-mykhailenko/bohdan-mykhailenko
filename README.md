@@ -1,8 +1,9 @@
 ## About Me
-💻 I have over 1 year of commercial and 2 years of non-commercial experience as a web developer..<br>
+💻 I have over 1 year of commercial and 2 years of non-commercial experience as a Full Stack Developer.<br>
+🔍 I'm expanding my knowledge with Solana blockchain development.
 🔍 I'm diving into Rust for its potential in blockchain and high-performance web apps.<br>
 🔍 I'm exploring backend technologies to round out my web development skills.<br>
-📒 Outside of coding, I'm passionate about sports science and learning French.<br>
+📒 Outside of coding, I'm passionate about sports, science and learning French.<br>
 💬 Feel free to connect and discuss projects or share your own learning journeys!<br>
 
 ## Socials:
