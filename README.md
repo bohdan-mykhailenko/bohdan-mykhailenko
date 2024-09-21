@@ -1,9 +1,18 @@
 ## About Me
-💻 I have over 1 year of commercial and 2 years of non-commercial experience as a Full Stack Developer.<br>
-🔍 I'm expanding my knowledge with Solana blockchain development.<br>
-🔍 I'm diving into Rust for its potential in blockchain and high-performance web apps.<br>
-🔍 I'm exploring backend technologies to round out my web development skills.<br>
-📒 Outside of coding, I'm passionate about sports, science and learning French.<br>
+💻 Full Stack Developer with 1+ year of experience building scalable, user-friendly web applications. Strong communication and teamwork skills.
+
+📒 Current learning goals:
+- languages: Rust;
+- front-end: Nuxt.js, Yew, Svelte, Astro;
+- back-end: Nest.js, Encore, Redis, Apollo, GraphQL;
+- blockchain: Solana, Anchor(Rust), Solana/web3.js(TypeScript);
+- dev-ops: Kubernetes, Docker, AWS, GCP.
+
+📒 Current goals beyond programming:
+- languages:  English, French;
+- sport: run marathon, play tennis, play badminton;
+- science: become some kind of archeologist, explore space.
+
 💬 Feel free to connect and discuss projects or share your own learning journeys!<br>
 
 ## Socials:
