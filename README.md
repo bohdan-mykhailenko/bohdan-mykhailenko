@@ -1,5 +1,5 @@
 ## About Me
-💻 Full Stack Developer with 1+ year of experience building scalable, user-friendly web applications. Strong communication and teamwork skills.
+💻 Full Stack Developer with 1+ year of experience building scalable, user-friendly web applications.
 
 📒 Current learning goals:
 - languages: Rust;
