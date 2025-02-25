@@ -1,7 +1,5 @@
-![GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=bohdan-mykhailenko&gitlabUsername=bohdan_mykhailenko)
-
 ## About Me
-💻 Full Stack Developer with 1+ year of experience building scalable, user-friendly web applications.
+💻 Full Stack & Web3 Developer | 1+ Year
 
 📒 Current learning goals:
 - languages: Rust;
@@ -12,10 +10,10 @@
 
 📒 Current goals beyond programming:
 - languages:  English, French;
-- sport: run marathon, play tennis, play badminton;
+- sport: run a marathon, play tennis, play badminton;
 - science: become some kind of archeologist, explore space.
 
-💬 Feel free to connect and discuss projects or share your own learning journeys!<br>
+💬 Feel free to connect and discuss projects or share your learning journeys!<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bohdan_02) 
