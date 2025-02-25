@@ -1,3 +1,5 @@
+![GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=bohdan-mykhailenko&gitlabUsername=bohdan_mykhailenko)
+
 ## About Me
 💻 Full Stack Developer with 1+ year of experience building scalable, user-friendly web applications.
 
