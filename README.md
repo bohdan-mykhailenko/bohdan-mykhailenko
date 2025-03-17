@@ -1,5 +1,5 @@
 ## About Me
-💻 Full Stack & Web3 Developer | 1+ Year
+💻 Full Stack & Web3 Developer | 1.5+ Year of Experience
 
 📒 Current learning goals:
 - languages: Rust;
